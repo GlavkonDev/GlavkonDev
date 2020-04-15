@@ -1,0 +1,15 @@
+PL
+  PLViagrid:Viagrid
+  Command='Viagrid:Viagrid'
+  Caption='Viagrid'
+  Params=''
+  Description='Viagrid'
+End
+
+Insertion VIAGRID_MNPcbMenu_User TargetID='MNPcbMenu' RefID0='MNPCB_Help10'
+Tree VIAGRID_Menu Caption='Viagrid'
+	Link BOMUPLOAD_Z0 PLID='PLViagrid:Viagrid'       End
+End
+End
+
+

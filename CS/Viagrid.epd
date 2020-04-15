@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Main>
+  <ExtensionServerOptions>
+    <Login></Login>
+    <Password></Password>
+    <ServiceURL></ServiceURL>
+    <PublishToGlobalExtensionServer>false</PublishToGlobalExtensionServer>
+    <VaultGUID></VaultGUID>
+  </ExtensionServerOptions>
+  <ExtensionOptions>
+    <ExtensionHRID>Viagrid</ExtensionHRID>
+    <ExtensionKind>ADServer</ExtensionKind>
+    <ExtensionSourceLocation>.\Viagrid</ExtensionSourceLocation>
+    <ExtensionSourceRelativePath></ExtensionSourceRelativePath>
+    <ExtensionLanguage>C#</ExtensionLanguage>
+    <ExtensionIDEVersion>Visual Studio 2015</ExtensionIDEVersion>
+    <ExtemsionSDKVersion>3.1.1  (AD 17.0+)</ExtemsionSDKVersion>
+    <ExtensionCategoryGUID>793A1F67-0B22-4E01-A5DE-3176A1E8C60D</ExtensionCategoryGUID>
+    <ExtensionCategoryName>Extensions</ExtensionCategoryName>
+    <ExtensionLicensingMode>0</ExtensionLicensingMode>
+    <ExtensionPlatform>Any CPU</ExtensionPlatform>
+    <ExtensionIsPublished>false</ExtensionIsPublished>
+    <AltiumUpdate>false</AltiumUpdate>
+  </ExtensionOptions>
+  <ExtensionVersionOptions>
+    <ExtensionTitle>Viagrid</ExtensionTitle>
+    <ExtensionReadMe></ExtensionReadMe>
+    <ExtensionKeywords></ExtensionKeywords>
+    <ExtensionHelp></ExtensionHelp>
+    <ExtensionRequirements></ExtensionRequirements>
+    <ExtensionSmallIcon>.\Viagrid\Installation\viagrid_small.png</ExtensionSmallIcon>
+    <ExtensionLargeIcon>.\Viagrid\Installation\viagrid.png</ExtensionLargeIcon>
+    <ExtensionShortDescription></ExtensionShortDescription>
+    <ExtensionLongDescription></ExtensionLongDescription>
+    <ExtensionVersion>1.0.0.1</ExtensionVersion>
+    <ExtensionLifeCycleGUID></ExtensionLifeCycleGUID>
+    <ExtensionTopLevelFolder></ExtensionTopLevelFolder>
+    <ExtensionSDKTicket></ExtensionSDKTicket>
+    <ReleaseNote></ReleaseNote>
+    <ExtensionPublisherName>LLC "GlavKon"</ExtensionPublisherName>
+  </ExtensionVersionOptions>
+</Main>
